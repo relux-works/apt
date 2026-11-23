@@ -1,0 +1,16 @@
+Package: weightspace
+Version: 0.2.0
+Architecture: arm64
+Maintainer: Relux Works, LLC <ivan@relux.works>
+Filename: pool/main/w/weightspace/weightspace_0.2.0_arm64.deb
+Size: 3530982
+MD5sum: 18862f44abe753234209a04008f82597
+SHA1: 5789e0122abe3b896160c216d1c3ba00339d17b1
+SHA256: 639a6cf89f96579c76c4a8153b47fc3f53fb9ce8af27a02ab169786046c27fa6
+Section: devel
+Priority: optional
+Homepage: https://weightspaceindex.com
+Description: Weightspace Index CLI and interactive TUI (weightspace / wsp)
+ Discover, verify, stack, and apply bit-exact weight patches and native
+ LoRA adapters for open-weight AI models across custom Git/HTTP registries.
+

@@ -1,0 +1,31 @@
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Mon, 23 Nov 2026 00:51:43 +0000
+Label: Relux Works APT
+Origin: Relux Works, LLC
+Suite: stable
+MD5Sum:
+ 8e339767371eb7a80dbe0534c300e863              161 Release
+ e0ad1636eb326c3370649a25e33f7a6f              638 main/binary-amd64/Packages
+ 301a2b82299a5387cfa97bfaeb8d2748              462 main/binary-amd64/Packages.gz
+ 43d5e9ed45362c0863f0abc422bb732e              638 main/binary-arm64/Packages
+ 044b10636a296261dc8f215801041d19              467 main/binary-arm64/Packages.gz
+SHA1:
+ b696f816b57febce81ed9150e92f2e47695bd68a              161 Release
+ 886aac0a9b4854cb189cec4a09780d7b1abcfb21              638 main/binary-amd64/Packages
+ 560a6ef00434b169034dc8716d304f516f52afa2              462 main/binary-amd64/Packages.gz
+ e0dcab0be932b56db3678d179a45057718388b31              638 main/binary-arm64/Packages
+ e3201208f02e198554ed375f8c1fa7ed370fe029              467 main/binary-arm64/Packages.gz
+SHA256:
+ e24356c07319c7d9aadbe65de7585054e9191b8c60a795a4172db56ae1928052              161 Release
+ 3857f220c5a6d8d031b659c499e3d80a9d83016716134e0069d03a8f01262984              638 main/binary-amd64/Packages
+ d41eb53eb475ec94ef80480d6aec1d73a9b79537f8c3a6c7d0a6bc870ee58891              462 main/binary-amd64/Packages.gz
+ 013dd1370c15c713dd6ac8a7b07e50838f1ea7c9b61c1eabd49bdb81f13a01de              638 main/binary-arm64/Packages
+ 6573236f403dce938a891284fa96ea9ba4065ffba49243054c64bc6c0b3c49c3              467 main/binary-arm64/Packages.gz
+SHA512:
+ 8de964394ba0b91f56250273985171ea37124e580b81f79ba97b4ea5853773ba39353a3a6ba2eefd1587b62e695f5065261e389dd292536506cd0301a2d0dfde              161 Release
+ 1d8220b4a395cbc3f204decac6129cc0e6081527f394cb65aabedab9c8c1bdd77a4711c69f13c4e3e0bc7be8b5779b528265c4de8498897492e41dc7cc7c7ce7              638 main/binary-amd64/Packages
+ 5af547786811e2763749119094ad2fc2d1b54ed6262062b34caa4cad9e0f56509cf6e7e1c2fd9f8c2b8381f39ff33567771f700c9ce12ad7e258ae1635b63de4              462 main/binary-amd64/Packages.gz
+ 82c5ae76abaf5e462ff302a15e13d96e77c32cf9491afdca53f17dac0af38a6fc4d7c8a694252bd2cc61f6f5d1de449e30e796b4f2450b0cc58169ad10961c0f              638 main/binary-arm64/Packages
+ 5a7118a644fdad487d64c8b83c427252dbf0b1b49944d3a78abb2db76447c9e41cd1c8384569fb701ba18621779c6ca9d995852daa58925e855db471ba40b44b              467 main/binary-arm64/Packages.gz
