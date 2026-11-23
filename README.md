@@ -7,10 +7,10 @@ Signed Debian and Ubuntu APT repository for [Relux Works](https://github.com/rel
 Add the signing key and repository source:
 
 ```sh
-curl -fsSL https://relux-works.github.io/apt/relux-works.gpg \
+curl -fsSL https://apt.relux.works/relux-works.gpg \
   | sudo tee /usr/share/keyrings/relux-works.gpg >/dev/null
 
-echo "deb [signed-by=/usr/share/keyrings/relux-works.gpg] https://relux-works.github.io/apt stable main" \
+echo "deb [signed-by=/usr/share/keyrings/relux-works.gpg] https://apt.relux.works stable main" \
   | sudo tee /etc/apt/sources.list.d/relux-works.list
 
 sudo apt update
@@ -34,7 +34,7 @@ gpg --show-keys --with-fingerprint /usr/share/keyrings/relux-works.gpg
 - **Key ID:** `F904AFA13300813C`
 - **Fingerprint:** `AB55 B321 5DE7 5BB8 5481 53AA F904 AFA1 3300 813C`
 - **UID:** `Relux Works APT <ivan@relux.works>`
-- **Downloads:** [relux-works.gpg](https://relux-works.github.io/apt/relux-works.gpg) (binary keyring for APT) · [relux-works.asc](https://relux-works.github.io/apt/relux-works.asc) (ASCII-armored)
+- **Downloads:** [relux-works.gpg](https://apt.relux.works/relux-works.gpg) (binary keyring for APT) · [relux-works.asc](https://apt.relux.works/relux-works.asc) (ASCII-armored)
 
 ## Repository Layout
 
